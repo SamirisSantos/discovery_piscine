@@ -1,1 +1,151 @@
-TEST
+# 🐍 Discovery Piscine - Python
+
+This repository contains all the exercises and projects completed during the **Discovery Piscine Python**, a **5-day intensive bootcamp** based on the innovative learning methodology of **42 School**, one of the world's leading software engineering schools.
+
+The program provides a hands-on introduction to programming with **Python**, focusing on problem-solving, logical thinking, and collaborative learning through the **Peer Learning** model.
+
+---
+
+# 📖 About the Discovery Piscine
+
+The Discovery Piscine is an immersive experience designed to introduce the fundamentals of programming in a practical and engaging way.
+
+Rather than following traditional lectures, participants learn by researching, experimenting, solving challenges, and collaborating with peers. There is no single correct solution to a problem—every participant develops their own approach while improving their coding and analytical skills.
+
+One of the key aspects of the 42 methodology is **Peer Evaluation**, where students review each other's work, discover different problem-solving strategies, and receive valuable feedback to improve their code.
+
+---
+
+# 📚 Repository Contents
+
+This repository is organized into **10 modules**, each containing practical Python exercises that build upon the concepts learned throughout the bootcamp.
+
+## 📦 Module 00 – Introduction
+
+- Terminal and command line
+- File system navigation
+- Creating and editing files
+- Writing the first Python script
+- Hello, World!
+
+## 📦 Module 01 – Variables
+
+- Variables
+- Data types
+- Assignments
+- Basic operations
+
+## 📦 Module 02 – Conditional Statements
+
+- `if`
+- `elif`
+- `else`
+- Comparison operators
+- Logical operators
+
+## 📦 Module 03 – Loops
+
+- `for` loops
+- `while` loops
+- Loop control
+
+## 📦 Module 04 – Objects
+
+- Introduction to objects
+- Working with simple objects
+
+## 📦 Module 05 – Lists
+
+- Creating lists
+- List methods
+- Iterating through lists
+- List manipulation
+
+## 📦 Module 06 – Arrays
+
+- Array manipulation
+- Common array operations
+- Practice exercises
+
+## 📦 Module 07 – Arrays (Advanced)
+
+- Advanced array manipulation
+- Practical exercises
+
+## 📦 Module 08 – Functions
+
+- Defining functions
+- Calling functions
+- Parameters and return values
+- Variable scope
+
+## 📦 Module 09 – Data Structures Practice
+
+- Arrays and related operations
+- Practice exercises
+- Review of previously learned concepts
+
+---
+
+# 🎯 Learning Objectives
+
+Throughout the Discovery Piscine, I developed skills in:
+
+- Python programming
+- Computational thinking
+- Problem-solving
+- Logical reasoning
+- Variables and data types
+- Conditional statements
+- Loops
+- Lists and arrays
+- Functions
+- Code organization
+- Peer learning and collaboration
+
+---
+
+# 🛠 Technologies
+
+- Python 3
+- Git
+- GitHub
+- Terminal (Linux/macOS)
+
+---
+
+# 📂 Repository Structure
+
+```text
+discovery_piscine/
+│
+├── module00/
+├── module01/
+├── module02/
+├── module03/
+├── module04/
+├── module05/
+├── module06/
+├── module07/
+├── module08/
+├── module09/
+└── README.md
+```
+
+---
+
+# 🌱 What I Learned
+
+This repository documents my learning journey throughout the Discovery Piscine.
+
+More than learning Python syntax, this experience strengthened my ability to think logically, solve problems independently, collaborate with others through peer evaluations, and continuously improve my coding skills.
+
+Every module represents a step forward in understanding programming fundamentals and building a solid foundation for future software development.
+
+---
+
+# 👩‍💻 Author
+
+**Samiris Santos**
+
+GitHub: https://github.com/SamirisSantos
