@@ -1,4 +1,3 @@
-
 first_name = input("Hey, whats your first name? : ")
 last_name = input("And, your last name? : ")
 
