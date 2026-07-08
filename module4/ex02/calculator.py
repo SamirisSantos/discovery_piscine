@@ -7,5 +7,8 @@ print("Thank you!")
 
 print(f"{first_number} + {sec_number} = {first_number + sec_number}")
 print(f"{first_number} - {sec_number} = {first_number - sec_number}")
-print(f"{first_number} / {sec_number} = {round(first_number / sec_number)}")
+if sec_number == 0:
+    print(f"{first_number} / {sec_number} = Division by zero is undefined")
+else:
+    print(f"{first_number} / {sec_number} = {round(first_number / sec_number)}")
 print(f"{first_number} * {sec_number} = {first_number * sec_number}")
