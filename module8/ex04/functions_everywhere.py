@@ -12,7 +12,7 @@ def enlarge(argument):
     else:
         for arg in argument[1:]:
             if len(arg) > 8:
-                print(shrink(str))
+                print(shrink(arg))
             else:
                 while len(arg) < 8:
                     arg += "z"
