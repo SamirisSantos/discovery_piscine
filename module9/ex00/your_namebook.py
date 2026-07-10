@@ -11,7 +11,6 @@ persons = {
 
 print(array_of_names(persons))
 
-
 # .items()
 # O Python olha para o dicionário names 
 # que você enviou e usa o método .items().
